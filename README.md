@@ -12,5 +12,5 @@ The original project consisted of analyzing data from two datafiles containing s
 
 After completing the analysis, the reliability of ninth grade reading and math scores of students from Thomas High School came under question. To ensure credibility the entire analysis was repeated after discarding the questionable data for ninth grade student grades for Thomas High School. The following reports a comparison between the calculated metrics with original dataset and modified data without the questionable.
 ### Deliverable 1: A high-level snapshot of the district's key metrics:
-	
+![Complete School Data] (https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/School_complete.png)	
 
