@@ -40,7 +40,7 @@ Modified data lists NaN for ninth grade average in Thomas High School as the sco
 Modified data lists NaN for ninth grade average in Thomas High School as the scores were discounted.
 ![Average Reading Scores by grade Original Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Original%20Dataset.png)&emsp;&emsp;&emsp;&emsp; ![Average Reading Scores by grade Modified Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Modified%20Dataset.png)
 #### School Performance based on the budget per student:
-The tables show there is no impact of modifying data on performance by budget per student.
+The tables show there is no impact of modifying data on performance by budget per student.<br/>
 Original Dataset:
 ![School Performance based on Budget per Student Original Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Schoo%3B%20Performance%20Based%20on%20Budget%20Original%20Dataset.png)<br/>
 Modified Dataset:
