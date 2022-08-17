@@ -34,7 +34,11 @@ Bottom 5 school lists remain unchanged after data modification as is clear from 
 #### Modified Data Bottom 5 Schools:
 ![Bottom 5 Schools with Modified Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Bottom%205%20Modified.png)
 #### Average Math Scores received by students in each grade at each school (Original Dataset) and (Modifified Dataset)
-Modified data lists NaN for ninth grade average in Thomas High School as the scores were discounted
+Modified data lists NaN for ninth grade average in Thomas High School as the scores were discounted.
+![Anerage Math Score by grade Original Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Original%20Dataset.png)&emsp;&emsp;&emsp;&emsp;![Average Math Score by grade Modified Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Modified%20Dataset.png)
+#### Average Reading Scores received by students in each grade at each school (Original Dataset) and (Modifified Dataset)
+Modified data lists NaN for ninth grade average in Thomas High School as the scores were discounted.
+![Average Reading Scores by grade Original Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Original%20Dataset.png)&emsp;&emsp;&emsp;&emsp; ![Average Reading Scores by grade Modified Dataset](https://github.com/mbandyo/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Modified%20Dataset.png)
 
 
 
